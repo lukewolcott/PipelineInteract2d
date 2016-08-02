@@ -2,6 +2,10 @@
 
 an interactive Processing sketch to manipulate and visualize barcodes, using Javaplex.  Builds on the Javaplex tutorial.
 
+### NOTE: 
+
+This code requires moving between Processing and R.  An improved version of this program is in the InteractiveJPDwB repo.  Go there.
+
 ### Setup
 
 In Processing sketch folder PipelineInteract2d, put "PipelineInteract2d.pde" and "data" folder.  In Processing sketch folder PipelineInteract2dBarcode put "PipelineInteract2dBarcode.pde".
